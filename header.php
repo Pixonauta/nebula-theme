@@ -57,7 +57,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <!----NAVBAR----->
         <header class="header">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-darkgray">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-darkpink">
                 <div class="container">
 					<?php 
 						$custom_logo_id = get_theme_mod( 'custom_logo' );

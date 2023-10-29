@@ -1,29 +1,25 @@
-/* $theme-colors: (
-  //"lightcolor":#39FF14,
-  //"darkgray":#747474,
-  //"green":#01B929,
-  //"primaryhard":#008C27,
-  //"darkprimary":#278273
-); */
 $theme-colors: (
   "darkgray":#282729,
+  "darkpink":#261d34,
   "orange":#FF5300,
   "primary":#753BBD,
   "light-orange":#ff7f3e,
-  "darkprimary":#280f46,
+  "darkprimary":#3a2850,
   "gray": #fafafa
 );
 
 $primary: #753BBD;
 $primaryhard:#753BBD;
 $darkprimary:#280f46;
+$darkpink: #261d34;
 $orange: #FF5300;
 $light-orange: #ff7f3e;
+$link-pink: hsl(324, 75%, 38%);
+$light-purple: #ccc6ff;
 /* Other theme colors */
 $gray: #fafafa; //#7C7C7C
 $gradient: linear-gradient(79.18deg, #49A0CE -0.43%, #7C53BE 22.82%, #C45497 50.61%, #7C53BE 73.76%, #49A0CE 98.43%);
 $gradient-hover: linear-gradient(180deg, #51D6D6 -44.83%, #3E35A6 140.85%);
-//$dark-gradient: linear-gradient(79.18deg, #49A0CE -0.43%, #7C53BE 22.82%, #C45497 50.61%, #7C53BE 73.76%, #49A0CE 98.43%);
 
 $darkprimary-gradient: linear-gradient(79.18deg, #49A0CE -0.43%, #280f46, #7C53BE 98.43%);
 
@@ -60,6 +56,8 @@ $container-max-widths: (
 
 
 */
+
+
 
 @import "bootstrap/bootstrap";
 
