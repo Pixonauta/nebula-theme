@@ -63,7 +63,7 @@
                                 <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                             </a>
                             <a class="rs-ic tw-ic nav-link text-primary" target="_blank" rel="noreferrer" href="https://twitter.com/pixonauta">
-                                <i class="fab fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                                <i class="fab fa-x-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                             </a>
                             <a class="rs-ic ins-ic nav-link text-primary" target="_blank" rel="noreferrer" href="https://www.instagram.com/pixonauta/">
                                 <i class="fab fa-instagram fa-lg white-text fa-2x"> </i>
@@ -83,7 +83,7 @@
                       <ul class="navbar-nav ml-auto m-0">
                         <li class="nav-item active">
                             <span class="navbar-text text-primary">
-                                Hecho con <i class="fa-solid fa-heart"></i> por <a href="<?php echo get_home_url();?>" class="fw-bold text-primary text-decoration-none" >Pixonauta</a>
+                                Hecho con <i class="fa-solid fa-heart"></i> por <a href="<?php echo get_home_url();?>" class="fw-bold text-primary text-decoration-none" >Pixonauta Team</a>
                             </span>
                         </li>
                         

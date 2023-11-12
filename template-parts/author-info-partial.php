@@ -31,7 +31,7 @@
                                 $github = get_the_author_meta('soundcloud', $post->post_author);
                                 ?>
                                 <?php if ($website) : ?><a href="<?php echo $website; ?>" class="px-1" rel="nofollow" target="_blank"><i class="fa-solid fa-earth-americas"></i></a><?php endif; ?>
-                                <?php if ($twitter) : ?><a href="<?php echo $twitter; ?>" class="px-1" rel="nofollow" target="_blank"><i class="fab fa-twitter white-text"> </i></a><?php endif; ?>
+                                <?php if ($twitter) : ?><a href="<?php echo $twitter; ?>" class="px-1" rel="nofollow" target="_blank"><i class="fab fa-x-twitter white-text"> </i></a><?php endif; ?>
                                 <?php if ($facebook) : ?> <a href="<?php echo $facebook; ?>" class="px-1" rel="nofollow" target="_blank"><i class="fab fa-facebook-f white-text"> </i></a><?php endif; ?>
                                 <?php if ($instagram) : ?> <a href="<?php echo $instagram; ?>" class="px-1" rel="nofollow" target="_blank"><i class="fa-brands fa-instagram"></i></a><?php endif; ?>
                                 <?php if ($linkedin) : ?> <a href="<?php echo $linkedin; ?>" class="px-1" rel="nofollow" target="_blank"><i class="fa-brands fa-linkedin"> </i></a><?php endif; ?>

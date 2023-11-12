@@ -135,8 +135,6 @@
                 ?>
 
                     <span><a href="<?php echo esc_url(get_category_link($category->term_id)); ?>"><?php echo $category_name; ?></a> </span> <?php if ($count_category < $count_categories) : ?><span> - </span><?php endif; ?>
-                    <!-- <span><a href="#">Categoria 1</a> </span><span> - </span><span><a href="#">Categoria 2</a></span><span> - </span><span><a href="#">Categoria 3</a></span><span> - </span><span><a href="#">Categoria 4</a></span>
-                        <span> - </span><span><a href="#">Categoria 5</a></span> -->
 
                 <?php
                     $count_category++;
